@@ -227,7 +227,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/sailfish/proprietary/vendor/etc/permissions/qti-vzw-ims-internal.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/qti-vzw-ims-internal.xml \
     vendor/google/sailfish/proprietary/vendor/etc/permissions/qti_permissions.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/qti_permissions.xml \
     vendor/google/sailfish/proprietary/vendor/etc/permissions/rcsservice.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/rcsservice.xml \
-    vendor/google/sailfish/proprietary/vendor/etc/permissions/telephonyservice.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/telephonyservice.xml \
     vendor/google/sailfish/proprietary/vendor/etc/public.libraries.txt:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt \
     vendor/google/sailfish/proprietary/vendor/etc/qdcm_calib_data_S1_FHD_SAMSUNG_EA8064TG_5.0_command_mode_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_S1_FHD_SAMSUNG_EA8064TG_5.0_command_mode_panel.xml \
     vendor/google/sailfish/proprietary/vendor/etc/qfipsverify/bootimg.hmac:$(TARGET_COPY_OUT_VENDOR)/etc/qfipsverify/bootimg.hmac \
@@ -818,7 +817,6 @@ PRODUCT_PACKAGES += \
     radioconfig \
     shutdownlistener \
     vzw_msdc_api \
-    QtiTelephonyServicelibrary \
     embmslibrary \
     qti-vzw-ims-internal \
     rcsservice
