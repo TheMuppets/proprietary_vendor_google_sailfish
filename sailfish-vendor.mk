@@ -469,6 +469,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sailfish/proprietary/vendor/lib/libdsi_netctrl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdsi_netctrl.so \
     vendor/google/sailfish/proprietary/vendor/lib/libdsutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdsutils.so \
     vendor/google/sailfish/proprietary/vendor/lib/libeglc2d.so:$(TARGET_COPY_OUT_VENDOR)/lib/libeglc2d.so \
+    vendor/google/sailfish/proprietary/vendor/lib/libexif.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexif.so \
     vendor/google/sailfish/proprietary/vendor/lib/libfastcvadsp_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfastcvadsp_stub.so \
     vendor/google/sailfish/proprietary/vendor/lib/libfastcvopt.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfastcvopt.so \
     vendor/google/sailfish/proprietary/vendor/lib/libflash_pmic.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_pmic.so \
@@ -498,6 +499,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sailfish/proprietary/vendor/lib/liblowi_client.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblowi_client.so \
     vendor/google/sailfish/proprietary/vendor/lib/libmdmdetect.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmdmdetect.so \
     vendor/google/sailfish/proprietary/vendor/lib/libmdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmdsprpc.so \
+    vendor/google/sailfish/proprietary/vendor/lib/libminijail.so:$(TARGET_COPY_OUT_VENDOR)/lib/libminijail.so \
     vendor/google/sailfish/proprietary/vendor/lib/libmm-disp-apis.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-disp-apis.so \
     vendor/google/sailfish/proprietary/vendor/lib/libmm-dspp-utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-dspp-utils.so \
     vendor/google/sailfish/proprietary/vendor/lib/libmm-hdcpmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-hdcpmgr.so \
@@ -630,6 +632,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sailfish/proprietary/vendor/lib/libwms.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwms.so \
     vendor/google/sailfish/proprietary/vendor/lib/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwvhidl.so \
     vendor/google/sailfish/proprietary/vendor/lib/libxml.so:$(TARGET_COPY_OUT_VENDOR)/lib/libxml.so \
+    vendor/google/sailfish/proprietary/vendor/lib/libyuv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libyuv.so \
     vendor/google/sailfish/proprietary/vendor/lib/rfsa/adsp/chre.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre.so \
     vendor/google/sailfish/proprietary/vendor/lib/rfsa/adsp/chre_drv_loc.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre_drv_loc.so \
     vendor/google/sailfish/proprietary/vendor/lib/rfsa/adsp/chre_drv_modem.so:$(TARGET_COPY_OUT_VENDOR)/lib/rfsa/adsp/chre_drv_modem.so \
